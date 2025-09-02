@@ -1,8 +1,8 @@
-- 👋 Hi, I’m dead shot
-- 👀 I’m interested in coding anime music
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on i have no idea
-- 📫 How to reach me dms
+- 👋 Hi, I’m Strawmerry
+- 👀 I’m interested in coding, anime music
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on something I have no idea
+- 📫 How to reach me DMs
 
 <!---
 lakshana001/lakshana001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
