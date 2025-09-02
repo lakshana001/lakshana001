@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Strawmerry
-- 👀 I’m interested in coding, anime music
+- 👀 I’m interested in coding, anime, and music
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on something I have no idea
 - 📫 How to reach me DMs
